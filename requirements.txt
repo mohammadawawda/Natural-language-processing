@@ -1,0 +1,11 @@
+numpy
+matplotlib
+spacy
+datasets
+nltk
+scikit-learn
+torch
+transformers
+gensim
+wikipedia
+google-genai

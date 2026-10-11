@@ -1,0 +1,20 @@
+Most likely tag
+Total Error Rate: 0.14811123293132666
+Known Word Error Rate: 0.0704399684933048
+Unknown Word Error Rate: 0.75043630017452
+Bigram HMM
+Error Rate Known:  0.21480814673118043 
+Error Rate Unknown:  0.7905759162303665 
+Error Rate Total:  0.28057410545200834
+Bigram HMM with add one smoothing
+Error Rate Known:  0.14560594126251825 
+Error Rate Unknown:  0.712914485165794 
+Error Rate Total:  0.2104056613176517
+HMM with pseudo words
+Error Rate Known:  0.2005176099921233 
+Error Rate Unknown:  0.5698080279232112 
+Error Rate Total:  0.24269909299312264
+HMM with pseudo words and add one smoothing
+Error Rate Known:  0.147518847755148 
+Error Rate Unknown:  0.5523560209424083 
+Error Rate Total:  0.19376059005282564
